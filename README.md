@@ -1,5 +1,3 @@
-# FPS-Microgame
- FPS with secret scene
+# Repositório Movido
 
-https://play.unity.com/mg/fps/webgl-builds-240296
-
+Acesse https://github.com/digitalinnovationone/trilha-unity/ para ter acesso a este repositório atualizado, assim como todos os outros repositórios que fazem parte da mesma trilha educacional.
